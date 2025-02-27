@@ -4,7 +4,7 @@
 <img alt="Frame" src="frame.png" style="max-width: 100%; height: auto;"/>
 
 ## Requirements
-To create and activate a Conda environment, use the following commands:
+To create and activate a conda environment, use the following commands:
 
 ```bash
 conda create -n CEFF python=3.11 
