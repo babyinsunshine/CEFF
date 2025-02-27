@@ -2,6 +2,7 @@
 # Adaptive IHC Virtual Staining via Contrastive-Encoding Feature Fusion
 ## Method
 <img alt="Frame" src="frame.png" style="max-width: 100%; height: auto;"/>
+
 ## Requirements
 To create and activate a Conda environment, use the following commands:
 
