@@ -60,4 +60,5 @@ python evaluate.py --result_path ./results/BCI
 You can download pre_trained models here:
 
 [![Pre](https://img.shields.io/badge/weights-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://drive.google.com/file/d/1-ywaEGKCqzxB5-YUWSipOz4WTHUn6fIE/view?usp=sharing)
+
 You can extract this file and place it in the checkpoints folder to use it.
